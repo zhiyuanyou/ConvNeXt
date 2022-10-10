@@ -1,6 +1,8 @@
-# [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
+## Clarification 
 
-Official PyTorch implementation of **ConvNeXt**, from the following paper:
+We revise the [official PyTorch implementation of ConvNeXt](https://github.com/facebookresearch/ConvNeXt) to use our own dataset. 
+
+# [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 
 [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545). CVPR 2022.\
 [Zhuang Liu](https://liuzhuang13.github.io), [Hanzi Mao](https://hanzimao.me/), [Chao-Yuan Wu](https://chaoyuan.org/), [Christoph Feichtenhofer](https://feichtenhofer.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Saining Xie](https://sainingxie.com)\
